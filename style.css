@@ -271,3 +271,26 @@ iframe{
         height: 50vh;
     }
 }
+
+/*Pricing section*/
+#pricing{
+    padding-top: 5%;
+}
+.card{
+    margin-top: 5%;
+}
+.card:hover{
+    box-shadow: 8px 8px 15px rgba(0,0,0,.4);
+    transition: 1s;
+
+}
+
+/*Contact section*/
+
+#contact{
+  padding-top: 5%;
+  background-color:skyblue;  
+}
+#contact iframe{
+    box-shadow: 15px 20px 10px rgba(0,0,0,.4);
+}
